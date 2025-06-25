@@ -1,0 +1,6 @@
+caller_id,receiver_id,timestamp,duration,cell_tower,location
+1001,2001,2023-06-01 21:30:00,180,CT101,Delhi
+1002,2003,2023-06-01 00:15:00,60,CT102,Mumbai
+1001,2004,2023-06-02 23:45:00,120,CT101,Delhi
+1003,2002,2023-06-02 14:30:00,240,CT103,Bangalore
+1002,2005,2023-06-03 01:20:00,90,CT102,Mumbai
